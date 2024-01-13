@@ -3,6 +3,7 @@ About r-icenreg-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-icenreg-feedstock/blob/main/LICENSE.txt)
 
+
 About r-icenreg
 ---------------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=icenReg
 Package license: LGPL-2.0-only OR LGPL-2.1-only
 
 Summary: Regression models for interval censored data. Currently supports Cox-PH, proportional odds, and accelerated failure time models. Allows for semi and fully parametric models (parametric only for accelerated failure time models) and Bayesian parametric models. Includes functions for easy visual diagnostics of model fits and imputation of censored data.
+
 About r-icenreg
 ---------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
